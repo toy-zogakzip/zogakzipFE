@@ -1,8 +1,3 @@
-# React + Vite
+# zogakzipFE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+코드잇 부스트 덕성여대 1기 파워부스트 토이프로젝트 [조각집] 4팀 프론트엔드 레포입니다.
